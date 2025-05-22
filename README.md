@@ -23,6 +23,7 @@ Website ini menampilkan layanan sewa mobil terpercaya di Yogyakarta, dengan info
 
 ## 🗂️ Struktur Folder
 
+```
 submission-dicoding-wahyu-mahmudi/
 ├── index.html
 ├── assets/
@@ -36,6 +37,7 @@ submission-dicoding-wahyu-mahmudi/
 │ ├── innova.jpg
 │ ├── hiace.jpg
 │ └── profile.webp
+```
 
 ## Tentang Saya
 
