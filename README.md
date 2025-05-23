@@ -38,10 +38,3 @@ submission-dicoding-wahyu-mahmudi/
 │ ├── hiace.jpg
 │ └── profile.webp
 ```
-
-## Tentang Saya
-
-Wahyu Mahmudiyanto
-
-- wahyu.mahmudi43@gmail.com
-- https://github.com/wahyu043
