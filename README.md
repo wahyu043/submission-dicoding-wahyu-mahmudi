@@ -42,4 +42,4 @@ submission-dicoding-wahyu-mahmudi/
 ## 🌐 Demo Website
 
 Klik untuk melihat hasil demo submission saya:  
-👉 [Demo Submission](https://username.github.io/submission-dicoding-wahyu/)
+👉 [Demo Submission](https://wahyu043.github.io/submission-dicoding-wahyu-mahmudi/)
